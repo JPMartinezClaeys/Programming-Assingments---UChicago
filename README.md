@@ -15,8 +15,8 @@ Code is private but permission is given to show code to potential employers.
 
 2nd Quarter: Computer Science with Applications II (Enrolled) (https://people.cs.uchicago.edu/~jturk/capp30122/)
 
-1. Hashtables and Programming Structure:
-2. Web Scraping: 
-3. SQL:
-4. Record Linkage: 
-5. Decision trees:
+1. Hashtables and Programming Structure: description in file README-PA1.md
+2. Web Scraping: description in file README-PA2.md
+3. SQL: description in file README-PA3.md
+4. Record Linkage: description in file README-PA4.md
+5. Decision trees: description in file README-PA5.md
