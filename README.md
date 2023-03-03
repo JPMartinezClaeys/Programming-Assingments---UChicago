@@ -13,7 +13,7 @@ Code is private but permission is given to show code to potential employers.
 5. Numpy: https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/modules/m5.html
 6. Recursion: https://classes.cs.uchicago.edu/archive/2022/fall/30121-1/modules/m6.html
 
-2nd Quarter: Computer Science with Applications II (Enrolled) (https://people.cs.uchicago.edu/~jturk/capp30122/)
+2nd Quarter: Computer Science with Applications II (https://people.cs.uchicago.edu/~jturk/capp30122/)
 
 1. Hashtables and Programming Structure: description in file README-PA1.md
 2. Web Scraping: description in file README-PA2.md
