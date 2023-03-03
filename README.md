@@ -17,3 +17,6 @@ Code is private but permission is given to show code to potential employers.
 
 1. Hashtables and Programming Structure:
 2. Web Scraping: 
+3. SQL:
+4. Record Linkage: 
+5. Decision trees:
